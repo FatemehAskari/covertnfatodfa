@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.exe
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.deps.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.runtimeconfig.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.runtimeconfig.dev.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\bin\Debug\netcoreapp3.1\covertnfatodfa.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.AssemblyInfo.cs
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\covertnfatodfa\covertnfatodfa\obj\Debug\netcoreapp3.1\covertnfatodfa.genruntimeconfig.cache
